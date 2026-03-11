@@ -20,7 +20,7 @@ public:
 int main() {
 
     int n;
-    cout << "Enter number of elements: ";
+    cout << "Enter number of elements in the array: ";
     cin >> n;
 
     vector <int> nums(n);
