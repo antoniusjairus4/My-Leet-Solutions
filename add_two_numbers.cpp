@@ -47,7 +47,7 @@ public:
 int main(){
 
     int n1;
-    cout << "Enter number of nodes in first list: ";
+    cout << "Enter number of nodes: ";
     cin >> n1;
 
     ListNode* head1 = nullptr;
