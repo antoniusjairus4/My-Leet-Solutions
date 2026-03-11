@@ -38,11 +38,11 @@ int main() {
     vector<int> result = s.twoSum(nums, target);
 
     if(result.size() == 2){
-        cout << "Indices of numbers that add to target: ";
+        cout << "Index of numbers that add to target value: ";
         cout << result[0] << " " << result[1] << endl;
     }
     else{
-        cout << "No valid pair found." << endl;
+        cout << "No pair found." << endl;
     }
 
     return 0;
