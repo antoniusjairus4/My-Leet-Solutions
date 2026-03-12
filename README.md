@@ -9,7 +9,7 @@ the truth is i hate coding but now i actually love to code just bucause i learnt
 📊 Progress
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 2               |
+| 🟢 Easy    | 3               |
 | 🟡 Medium  | 2               |
 | 🔴 Hard    | 0               |
 
