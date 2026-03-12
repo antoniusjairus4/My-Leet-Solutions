@@ -20,4 +20,4 @@ the truth is i hate coding but now i actually love to code just bucause i learnt
 
 You can check my LeetCode profile here:
 
-👉 https://leetcode.com/](https://leetcode.com/antoniusjairus4/
+👉 https://leetcode.com/antoniusjairus4/
