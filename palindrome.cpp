@@ -18,8 +18,6 @@ public:
             x /= 10;
         }
 
-        // For even digits: x == rev
-        // For odd digits: x == rev/10
         return (x == rev || x == rev/10);
     }
 };
@@ -31,12 +29,15 @@ int main(){
     cout << "Enter an integer: ";
     cin >> num;
 
-    Solution sol;
+    Solution s;
 
-    if(sol.isPalindrome(num))
+    if(s.isPalindrome(num)){
         cout << "The number is a palindrome." << endl;
-    else
+    }
+
+    else{
         cout << "The number is NOT a palindrome." << endl;
+    }
 
     return 0;
 }
