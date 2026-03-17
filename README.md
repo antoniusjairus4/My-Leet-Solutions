@@ -10,7 +10,7 @@ the truth is i hate coding but now i actually love to code just bucause i learnt
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | 🟢 Easy    | 3               |
-| 🟡 Medium  | 1               |
+| 🟡 Medium  | 2               |
 | 🔴 Hard    | 0               |
 
 🛠 Languages Used
