@@ -11,7 +11,7 @@ kindly share it with me.
 📊 Progress
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 3               |
+| 🟢 Easy    | 4               |
 | 🟡 Medium  | 3               |
 | 🔴 Hard    | 0               |
 
